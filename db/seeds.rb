@@ -2,6 +2,8 @@
 
 # testing1 branch push
 
+# first commit code
+
 # 4.times do
 # 	Inventory.create({
 # 		title: Faker::Book.title,
