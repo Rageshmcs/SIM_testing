@@ -1,3 +1,5 @@
+# first push
+
 # 4.times do
 # 	Inventory.create({
 # 		title: Faker::Book.title,
