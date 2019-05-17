@@ -2,8 +2,6 @@
 
 # testing1 branch push
 
-# first commit code
-
 # second commit code...
 
 # 4.times do
