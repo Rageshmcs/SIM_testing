@@ -4,8 +4,9 @@
 
 # second commit code...
 
-# testing1 branch code...1
 # testing1 branch code...2
+
+# testing1 branch code...3 new
 
 # 4.times do
 # 	Inventory.create({
