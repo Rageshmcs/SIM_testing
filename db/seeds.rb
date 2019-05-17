@@ -8,6 +8,10 @@
 
 # testing1 branch code...3 new
 
+###########
+# testing3 added line committed
+###########
+
 # 4.times do
 # 	Inventory.create({
 # 		title: Faker::Book.title,
